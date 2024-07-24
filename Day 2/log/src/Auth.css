@@ -1,0 +1,30 @@
+.logf1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+table {
+    padding: 50px;
+    gap: 40px;
+}
+
+td {
+    padding: 10px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(253, 250, 250);
+}
+
+form {
+    background-color: white ;
+
+    border-radius: 5px;
+}
