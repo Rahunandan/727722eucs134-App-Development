@@ -1,0 +1,67 @@
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.about-container h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.about-container p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.mission {
+    margin-bottom: 40px;
+}
+
+.mission h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.mission p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.mission img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.team {
+    margin-bottom: 40px;
+}
+
+.team h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.team-member img {
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.member-info h3 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.member-info p {
+    font-size: 1.2em;
+    margin: 0;
+}
