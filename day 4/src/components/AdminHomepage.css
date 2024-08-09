@@ -1,0 +1,41 @@
+.admin-homepage {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.logout-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.orders-table th, .orders-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.orders-table th {
+    background-color: #f4f4f4;
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
